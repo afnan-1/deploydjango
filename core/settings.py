@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-2lv#7d6n+06k2k-#hxp9xf1u@g1_rd8$*v*skf72t+w)d7&365'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['flockshop.co','api.flockshop.co','www.flockshop.co','www.api.flockshop.co']
 # ALLOWED_HOSTS = ['*']
